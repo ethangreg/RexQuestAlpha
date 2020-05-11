@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EthanFinalProject.Creature">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAwAAAAAAAAAQAAEAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EthanFinalProject.Game">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAgQACAACAAgFgAgAIEAAAQAAGAhAgIaAEAAAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EthanFinalProject.Maze">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAEAAAAAAAIAAAAAAAAAAgAgAAAAAAAA=</HashCode>
+      <FileName>Maze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EthanFinalProject.Menu">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIIAAAABAAAI=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EthanFinalProject.Player">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAEgAAAAAYAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
